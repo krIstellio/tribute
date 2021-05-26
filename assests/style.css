@@ -1,0 +1,21 @@
+h1 {
+    font-size: 80px;
+    text-align: center;
+    color: red;
+
+}
+
+img {
+    width: 300px;
+    height: auto;
+
+}
+
+p {
+  font-weight: 200;
+}
+
+div {
+    width: 100%;
+    display: flex;
+}
